@@ -30,21 +30,21 @@ continuously learning, wanting to help the community
 ```javascript
 const nehul = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "PHP"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["Materialize", "Vuetify", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["Node", "Express", "SuiteScript"],
+            python: ["Flask", "Pytorch", "Pandas", "Numpy",  "Scipy", "Matplotlib", "Keras", "Tensorflow"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["Mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "Open-cv", "PHP", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Secure Channel Communication App using Two-Fish Algorithm & Image Steganography ",
