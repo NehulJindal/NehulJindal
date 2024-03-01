@@ -28,7 +28,7 @@ continuously learning, wanting to help the community
 </p>
 
 ```javascript
-const anmol = {
+const nehul = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -47,7 +47,7 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing Secure Channel Communication App using Two-Fish Algorithm & Image Steganography ",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
