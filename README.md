@@ -59,6 +59,10 @@ const nehul = {
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
+
 <p align="center">
   <a href="https://twitter.com/nehuljindal">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
