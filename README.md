@@ -14,8 +14,8 @@
 <p align="left" >
   <samp>
     My name is <em>Nehul Jindal</em>. I am a Full-Stack 'n' Mobile Developer... 
-  <br/> Javascript Enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Full-Time student.
+  <br/> Javascript Enthusiast... ReactJs lover. React-Native addict. 
+    <br/> (<em>ex</em>)Full-Time Student.
       <br/>
     
 Creating games for fun, composing songs,
