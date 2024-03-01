@@ -58,3 +58,21 @@ const nehul = {
 - Always Willing to help (Altruistic). ✋
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+
+<p align="center">
+  <a href="https://twitter.com/nehuljindal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/nehuljindal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/nehul-jindal/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://discord.gg/KgF4WGf">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="mailto:jindalnehul494@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
