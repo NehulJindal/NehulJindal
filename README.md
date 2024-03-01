@@ -51,4 +51,10 @@ const nehul = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
+## Talking about personal stuff ::
+-  My interests are with Software Solutions, Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.⭐️
+- Just loved to Explore new Tech Stacks.💻
+- Always Willing to help (Altruistic). ✋
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
